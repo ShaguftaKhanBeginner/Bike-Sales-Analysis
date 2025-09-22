@@ -2,7 +2,7 @@
 Analyzed bike sales data in Excel to track trends, pricing, and customer preferences. Built an interactive dashboard using pivot tables, charts, and conditional formatting, providing clear insights to streamline reporting and support data-driven business decisions.
 
 ## Project Description
-The Bike Sales (Bike Dekho) project is an Excel-based analysis aimed at understanding sales performance, pricing trends, and customer preferences. Raw sales data was cleaned and structured to provide accurate insights. An interactive Excel dashboard was built to visualize trends and support data-driven business decisions.
+The Bike Sales Analysis project is an Excel-based analysis aimed at understanding sales performance, pricing trends, and customer preferences. Raw sales data was cleaned and structured to provide accurate insights. An interactive Excel dashboard was built to visualize trends and support data-driven business decisions.
 
 ## Tools Used
 - Excel (Pivot Tables, Charts, Conditional Formatting)
